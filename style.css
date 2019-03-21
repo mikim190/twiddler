@@ -1,0 +1,52 @@
+body {
+	background: #F4F9E1;
+	text-align: center;
+}
+
+header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #71881B;	
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+button {
+	border-radius: 8px;
+	margin: 20px;
+	font-size: 24px;
+	cursor: pointer;
+	background-color: #B3D733;
+	color: black;
+
+}
+
+.tweets {
+	margin-top: 30px;
+	text-align: center;
+
+}
+
+.user {
+	display: inline;
+	font-size: 18px;
+	/*font-stretch: expanded;*/
+	color: #FF6347;
+	font-weight: bold;
+	font-family: Times New Roman;
+}
+
+
+.message {
+  display: inline; 
+  font-family: Times New Roman;
+  font-size: 18px;
+}
+
+
+
+
